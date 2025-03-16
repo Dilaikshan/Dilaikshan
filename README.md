@@ -1,6 +1,8 @@
 ### Hi there, I'm **Antony Dilaikshan(@Dilaikshan)**! 👋
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
+<div align="center">
+  <img src="https://github.com/Dilaikshan/Dilaikshan/blob/main/banner.svg" alt="Profile Banner" width="100%">
+</div>
 
 I'm an **ICT undergraduate specializing in Software Technologies** at **South Eastern University of Sri Lanka**. Passionate about **AI, ML, IoT, Blockchain, and Mobile App Development**, I build innovative solutions with **Flutter, Firebase, Python, Java, and Laravel**.
 
@@ -38,8 +40,8 @@ I'm an **ICT undergraduate specializing in Software Technologies** at **South Ea
 
 ## 📊 GitHub Stats
 
-![Dilaikshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilaikshan-GH&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilaikshan-GH&layout=compact&theme=radical)
+![Dilaikshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilaikshan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilaikshan&layout=compact&theme=radical)
 
 ---
 
