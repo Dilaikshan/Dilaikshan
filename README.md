@@ -1,8 +1,9 @@
-### Hi there, I'm **Antony Dilaikshan(@Dilaikshan)**! 👋
-
-<div align="center">
-  <img src="https://github.com/Dilaikshan/Dilaikshan/blob/main/banner.svg" alt="Profile Banner" width="100%">
+### <div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:8A2BE2,50:00FFFF,100:FF10F0&angle=45&stroke=auto&height=200&section=header&animation=twinkle">
 </div>
+
+
+### Hi there, I'm **Antony Dilaikshan (@Dilaikshan)**! 👋
 
 I'm an **ICT undergraduate specializing in Software Technologies** at **South Eastern University of Sri Lanka**. Passionate about **AI, ML, IoT, Blockchain, and Mobile App Development**, I build innovative solutions with **Flutter, Firebase, Python, Java, and Laravel**.
 
@@ -18,23 +19,32 @@ I'm an **ICT undergraduate specializing in Software Technologies** at **South Ea
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Prolog](https://img.shields.io/badge/-Prolog-8D4F82?style=flat-square&logo=prolog&logoColor=white)
+
+### **Frameworks & Libraries**
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### **Database & Cloud**
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### **Fields of Work**
+- IoT 🌐
+- Machine Learning 🤖
+- RPC, RMI, MPI ⚡
 
-### **Tools & Other Skills**
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Weka](https://img.shields.io/badge/-Weka-0057B8?style=flat-square&logo=weka&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+### **Platforms & Operating Systems**
+![Linux Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+### **Interests**
+🚀 Machine Learning | AI | Blockchain | Cybersecurity | Mobile App Development | DevOps | Software Development | Web Development | Cloud Application Development | Cloud Computing
 
 ---
 
@@ -42,6 +52,7 @@ I'm an **ICT undergraduate specializing in Software Technologies** at **South Ea
 
 ![Dilaikshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilaikshan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilaikshan&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dilaikshan&theme=radical&hide_border=false)
 
 ---
 
@@ -51,3 +62,7 @@ I'm an **ICT undergraduate specializing in Software Technologies** at **South Ea
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dilaikshan1445@gmail.com)
 
 💬 **Feel free to reach out for collaborations, freelance work, or just a chat about tech!** 🚀
+
+### <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:43cea2,33:185a9d,66:ff6b6b,100:ff8e53&height=150&section=footer&animation=fadeIn">
+</div>
