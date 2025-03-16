@@ -50,9 +50,10 @@ I'm an **ICT undergraduate specializing in Software Technologies** at **South Ea
 
 ## 📊 GitHub Stats
 
-![Dilaikshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilaikshan&show_icons=true&theme=radical)
+![Dilaikshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilaikshan&show_icons=true&theme=radical)</br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dilaikshan&theme=radical&hide_border=false)</br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilaikshan&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dilaikshan&theme=radical&hide_border=false)
+
 
 ---
 
