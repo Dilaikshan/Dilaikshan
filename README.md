@@ -1,5 +1,5 @@
 ### <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:8A2BE2,50:00FFFF,100:FF10F0&angle=45&stroke=auto&height=200&section=header&animation=twinkle">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,33:185a9d,66:ff6b6b,100:ff8e53&height=200&section=header&text=Hello%20There!%20&fontSize=40&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlign=50&descAlignY=55&animation=fadeIn">
 </div>
 
 
@@ -64,5 +64,5 @@ I'm an **ICT undergraduate specializing in Software Technologies** at **South Ea
 💬 **Feel free to reach out for collaborations, freelance work, or just a chat about tech!** 🚀
 
 ### <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:43cea2,33:185a9d,66:ff6b6b,100:ff8e53&height=150&section=footer&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,33:185a9d,66:ff6b6b,100:ff8e53&height=150&section=footer&animation=fadeIn">
 </div>
