@@ -59,9 +59,6 @@ I'm an **ICT undergraduate specializing in Software Technologies** at **South Ea
 
 ---
 
-
----
-
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/dilaikshan-mja)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/DBERDPy)
