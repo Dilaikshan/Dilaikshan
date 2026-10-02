@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,33:185a9d,66:ff6b6b,100:ff8e53&height=230&section=header&text=Antony%20Dilaikshan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer%20%7C%20Published%20AI%20Researcher&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=43CEA2&center=true&vCenter=true&multiline=false&width=760&height=50&lines=Junior+AI+%26+Automation+Engineer+%F0%9F%A4%96;Sub+Team+Leader+at+Digit+Web+Lanka+%F0%9F%91%A5;Building+LLM+Agents+and+n8n+Workflows+%E2%9A%A1;Published+AI+Researcher+%E2%80%94+Grade+A+%F0%9F%8E%93;Full+Stack+%7C+Flutter+%7C+Python+%7C+React+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="./assets/header.svg" alt="Antony Dilaikshan - AI & Automation Engineer" width="100%" />
 
   <br/>
 
   <img src="https://komarev.com/ghpvc/?username=Dilaikshan&label=Profile%20Views&color=185a9d&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Dilaikshan?style=for-the-badge&logo=github&color=43cea2&labelColor=0d1117" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Freelance-43cea2?style=for-the-badge" alt="Open to work" />
   <img src="https://img.shields.io/badge/Based%20in-Jaffna%2C%20Sri%20Lanka-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
@@ -22,23 +19,13 @@ I was promoted to Junior Engineer and Sub Team Leader within **3 months**, self-
 
 > 🎓 **B.ICT (Hons) in Software Technologies** — SEUSL · GPA **3.5 / 4.0**
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 📈 Impact at a Glance
 
-<div align="center">
+<img src="./assets/impact.svg" width="100%" alt="Impact: 150+ workflows, 30+ APIs, 15,000+ ASINs, 98.5% faster monitoring, 7,000+ ASINs segmented, 3,500+ reviews, 800+ competitor checks, KPI dashboard rescued in 3 weeks" />
 
-| 🔄 **150+** | 📚 **30+** | 📦 **15,000+** | ⏱️ **98.5%** |
-|:---:|:---:|:---:|:---:|
-| Active workflows governed via n8n + Claude MCP | Internal & external APIs documented in a company-wide registry | Amazon ASINs tracked on the KPI Dashboard | Reduction in weekly ASIN monitoring time (400 min → 6 min) |
-
-| 👥 **30–40** | 🧾 **7,000+** | ⭐ **3,500+** | 🔍 **800+** |
-|:---:|:---:|:---:|:---:|
-| Daily users of the KPI Dashboard | ASINs auto-segmented every two weeks | Verified reviews collected and published to Shopify | Competitor checks per run with vision AI |
-
-</div>
-
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 💼 What I'm Doing Now
 
@@ -48,39 +35,45 @@ I was promoted to Junior Engineer and Sub Team Leader within **3 months**, self-
 - 📊 **KPI Dashboard & Pulse Dashboard** — React / Next.js / Node.js / MySQL platforms used daily across the company
 - 🔬 **Research** — exploring ML, AI, and IoT with a focus on accessibility
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
+<img src="./assets/stack.svg" width="100%" alt="Tech stack: n8n, LLM integration, Claude MCP, Gemini, Ollama, Python, TypeScript, React, Next.js, Laravel, Flutter, Firebase, MySQL, PostgreSQL, AWS, Linux" />
+
 <div align="center">
 
-### 🤖 AI & Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20%2B%20MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama%20%7C%20Qwen%202.5%20VL-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-185a9d?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-43cea2?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=py,js,ts,php,java,dart,c,html,css&theme=dark" alt="Languages" />
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🌐 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,flutter,bootstrap,tailwind&theme=dark" alt="Frameworks" />
-
-### 🗄️ Databases, Cloud & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,aws,vercel,git,github,linux,ubuntu,kali&theme=dark" alt="Tools" />
-
-### 🕷️ Data & Scraping
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Helium 10](https://img.shields.io/badge/Helium%2010%20API-FF6B6B?style=for-the-badge)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Career Journey
 
@@ -93,7 +86,7 @@ timeline
     Jul 2026 : Graduated with GPA 3.5 / 4.0 : Eye-tracking research abstract published
 ```
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🏆 Featured Work
 
@@ -148,7 +141,7 @@ A multi-input **CNN** enabling **low-cost, software-only mobile eye-tracking** f
 
 </details>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🌱 Leadership & Community
 
@@ -156,7 +149,7 @@ A multi-input **CNN** enabling **low-cost, software-only mobile eye-tracking** f
 - 🎤 **AI Workshop Facilitator** — designed and delivered a school-level AI workshop with live demos at Vavuniya Tamil Madhiya Maha Vidyalayam
 - 📢 **AI Awareness Presenter** — presented at SEUSL's 27th Anniversary Open Day
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 📜 Certifications
 
@@ -175,28 +168,13 @@ A multi-input **CNN** enabling **low-cost, software-only mobile eye-tracking** f
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dilaikshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilaikshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=Dilaikshan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dilaikshan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilaikshan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
+  <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dilaikshan/Dilaikshan/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dilaikshan/Dilaikshan/output/github-contribution-grid-snake.svg" />
@@ -204,13 +182,11 @@ A multi-input **CNN** enabling **low-cost, software-only mobile eye-tracking** f
   </picture>
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🌐 Languages
 
 🇱🇰 **Tamil** — Fluent &nbsp;·&nbsp; 🇬🇧 **English** — Fluent &nbsp;·&nbsp; 🇱🇰 **Sinhala** — Intermediate
-
----
 
 ## 📬 Let's Connect
 
@@ -222,6 +198,6 @@ A multi-input **CNN** enabling **low-cost, software-only mobile eye-tracking** f
 
 💬 *Open to collaborations, freelance work, and conversations about AI, automation, and software.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,33:185a9d,66:ff6b6b,100:ff8e53&height=150&section=footer&animation=fadeIn" alt="footer" />
-
 </div>
+
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
