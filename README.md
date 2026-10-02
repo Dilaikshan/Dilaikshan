@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Antony Dilaikshan - AI & Automation Engineer" width="100%" />
+  <img src="./header.svg" alt="Antony Dilaikshan - AI & Automation Engineer" width="100%" />
 
   <br/>
 
@@ -19,13 +19,13 @@ I was promoted to Junior Engineer and Sub Team Leader within **3 months**, self-
 
 > 🎓 **B.ICT (Hons) in Software Technologies** — SEUSL · GPA **3.5 / 4.0**
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 📈 Impact at a Glance
 
-<img src="./assets/impact.svg" width="100%" alt="Impact: 150+ workflows, 30+ APIs, 15,000+ ASINs, 98.5% faster monitoring, 7,000+ ASINs segmented, 3,500+ reviews, 800+ competitor checks, KPI dashboard rescued in 3 weeks" />
+<img src="./impact.svg" width="100%" alt="Impact: 150+ workflows, 30+ APIs, 15,000+ ASINs, 98.5% faster monitoring, 7,000+ ASINs segmented, 3,500+ reviews, 800+ competitor checks, KPI dashboard rescued in 3 weeks" />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 💼 What I'm Doing Now
 
@@ -35,11 +35,11 @@ I was promoted to Junior Engineer and Sub Team Leader within **3 months**, self-
 - 📊 **KPI Dashboard & Pulse Dashboard** — React / Next.js / Node.js / MySQL platforms used daily across the company
 - 🔬 **Research** — exploring ML, AI, and IoT with a focus on accessibility
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
-<img src="./assets/stack.svg" width="100%" alt="Tech stack: n8n, LLM integration, Claude MCP, Gemini, Ollama, Python, TypeScript, React, Next.js, Laravel, Flutter, Firebase, MySQL, PostgreSQL, AWS, Linux" />
+<img src="./stack.svg" width="100%" alt="Tech stack: n8n, LLM integration, Claude MCP, Gemini, Ollama, Python, TypeScript, React, Next.js, Laravel, Flutter, Firebase, MySQL, PostgreSQL, AWS, Linux" />
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I was promoted to Junior Engineer and Sub Team Leader within **3 months**, self-
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 🚀 Career Journey
 
@@ -86,7 +86,7 @@ timeline
     Jul 2026 : Graduated with GPA 3.5 / 4.0 : Eye-tracking research abstract published
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 🏆 Featured Work
 
@@ -141,7 +141,7 @@ A multi-input **CNN** enabling **low-cost, software-only mobile eye-tracking** f
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 🌱 Leadership & Community
 
@@ -149,7 +149,7 @@ A multi-input **CNN** enabling **low-cost, software-only mobile eye-tracking** f
 - 🎤 **AI Workshop Facilitator** — designed and delivered a school-level AI workshop with live demos at Vavuniya Tamil Madhiya Maha Vidyalayam
 - 📢 **AI Awareness Presenter** — presented at SEUSL's 27th Anniversary Open Day
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 📜 Certifications
 
@@ -168,7 +168,7 @@ A multi-input **CNN** enabling **low-cost, software-only mobile eye-tracking** f
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Activity
 
@@ -182,7 +182,7 @@ A multi-input **CNN** enabling **low-cost, software-only mobile eye-tracking** f
   </picture>
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 🌐 Languages
 
@@ -200,4 +200,4 @@ A multi-input **CNN** enabling **low-cost, software-only mobile eye-tracking** f
 
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
+<img src="./footer.svg" width="100%" alt="Thanks for visiting" />
